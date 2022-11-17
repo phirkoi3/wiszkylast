@@ -10,7 +10,7 @@ class _BotCommands:
         self.QbMirrorCommand = (f'qbmirror{CMD_INDEX}', f'qm{CMD_INDEX}')
         self.QbUnzipMirrorCommand = (f'qbunzipmirror{CMD_INDEX}', f'quzm{CMD_INDEX}')
         self.QbZipMirrorCommand = (f'qbzipmirror{CMD_INDEX}', f'qzm{CMD_INDEX}')
-        self.YtdlCommand = (f'ytdldis99{CMD_INDEX}', f'ydis99{CMD_INDEX}')
+        self.YtdlCommand = (f'ytdl{CMD_INDEX}', f'y{CMD_INDEX}')
         self.YtdlZipCommand = (f'ytdlzip{CMD_INDEX}', f'yz{CMD_INDEX}')
         self.LeechCommand = (f'leech{CMD_INDEX}', f'l{CMD_INDEX}')
         self.UnzipLeechCommand = (f'unzipleech{CMD_INDEX}', f'uzl{CMD_INDEX}')
